@@ -1,6 +1,6 @@
 # Nvidia Client
 
-![Nvidia Client Logo](link-to-your-logo-image)
+![Nvidia Client Logo](https://cdn.discordapp.com/attachments/1124638385684885554/1124638770453545010/static_3.png)
 
 Nvidia Client is a Minecraft Bedrock hacked/utility client designed for use on multiple servers.
 
