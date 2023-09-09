@@ -1,29 +1,16 @@
-# Nvidia Client
+# Welcome to SieonnPlayz's GitHub Page
 
-![Nvidia Client Logo](https://cdn.discordapp.com/attachments/1124638385684885554/1124638770453545010/static_3.png)
+![Custom Background](https://media.tenor.com/Ux8DkBfh_OEAAAAd/purple-cyberpunk.gif)
 
-Nvidia Client is a Minecraft Bedrock hacked/utility client designed for use on multiple servers.
+## About Me
 
-## Features
+I am SieonnPlayz, a passionate developer with a focus on Java and game development.
 
-- Bypassing Flight for Hive
-- Bypassing Speed
-- And More!
+## Contact
 
-## Usage
+- GitHub: [SieonnPlayz](https://github.com/SieonnPlayz)
+- Discord: zjavadev
 
-1. Download the latest version of Nvidia Client from the Website, For now its private.
-2. Install Nvidia Client on your device.
-3. Launch Minecraft Bedrock Edition.
-4. Inject Nvidia Into Minecraft
-5. Customize your settings and enable the desired features.
-6. Join your favorite Bedrock server and enjoy the additional functionalities provided by Nvidia Client.
+Feel free to explore my [Website](https://sieonnplayz.github.io/) to learn more about my projects and activities.
 
-## License
-
-Nvidia Client is released under the Nvidia Development LLC.
-
-## Support
-
-If you have any questions, issues, or suggestions, feel free to our upcomming discord server.
-
+![GitHub Pages](https://sieonnplayz.github.io/)
