@@ -12,4 +12,3 @@ I am SieonnPlayz, a passionate developer with a focus on Java and game developme
 
 Feel free to explore my [Website](https://sieonnplayz.github.io/) to learn more about my projects and activities.
 
-![GitHub Pages](https://sieonnplayz.github.io/)
