@@ -3,12 +3,12 @@
 
 ## About Me
 
-I am SieonnPlayz, a passionate developer with a focus on Java and game development.
+I am SieonnPlayz, a passionate developer with a focus on C++ and game development.
 
 ## Contact
 
 - GitHub: [SieonnPlayz](https://github.com/SieonnPlayz)
-- Discord: zjavadev
+- Discord: zcrystalinq
 
 Feel free to explore my [Website](https://sieonnplayz.github.io/) to learn more about my projects and activities.
 
