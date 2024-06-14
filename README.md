@@ -3,12 +3,17 @@
 
 ## About Me
 
-I am SieonnPlayz, a passionate developer with a focus on C++ and game development.
+Heya! nice to meet you :) I'm a person who likes coding, I'm currently learning, and improving on the code languages:
+C++
+Java
+JavaScript
+And, I love cats! I'm also learning Game Development, i play ALOT.. of games :D
+if you wanna talk to me, send me a request on discord! :D
 
 ## Contact
 
 - GitHub: [SieonnPlayz](https://github.com/SieonnPlayz)
-- Discord: zcrystalinq
+- Discord: chrzstmas
 
 Feel free to explore my [Website](https://sieonnplayz.github.io/) to learn more about my projects and activities.
 
